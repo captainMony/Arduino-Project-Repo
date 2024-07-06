@@ -85,6 +85,17 @@ Arduino Uno е популярна микроконтролерна платка,
 Arduino Uno е популярна микроконтролерна платка, използвана за прототипиране на електронни проекти.
  Тя е базирана на микроконтролера ATmega328P и предоставя входно/изходни пинове за свързване на различни сензори и актюатори.
 
+## Research and development notes:
+Base idea from scratch:
+![image](https://github.com/captainMony/Arduino-Project-Repo/assets/140430060/8a413274-d928-4ed9-baa2-2df9a6d9fe55)
+
+
+Possible implementation of I2C LCD insted of "normal" way. Idk why tinkercad library wont load.
+![image](https://github.com/captainMony/Arduino-Project-Repo/assets/140430060/62d18089-ad73-46ab-9b08-38b08724a8d1)
+
+
+Keypad research: 
+![image](https://github.com/captainMony/Arduino-Project-Repo/assets/140430060/c2b4f19f-2c30-4b64-a04f-2b8521e9a3f9)
 
 
 
